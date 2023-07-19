@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Aher</h1>
-<h3 align="center">I am Cyber security Enthusiasts.</h3>
-
-
-<img align="right">src="![images](https://github.com/OmkarAher45687/OmkarAher45687/assets/113294166/2dd9fb2c-c875-4719-ae41-cb685445ef86)"
+<h3 align="center">I am an IT student interested in Cyber security.</h3>
+<img align="right" width ="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkaraher45687&label=Profile%20views&color=0e75b6&style=flat" alt="omkaraher45687" /> </p>
 
