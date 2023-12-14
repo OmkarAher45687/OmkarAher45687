@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkaraher45687&label=Profile%20views&color=0e75b6&style=flat" alt="omkaraher45687" /> </p>
 
-- 🌱 I’m currently learning **cyber security skills**
+- 🌱 I’m currently learning **Development and Cyber Security Skills**
 
 - 📫 How to reach me **aher45687@gmail.com**
 
