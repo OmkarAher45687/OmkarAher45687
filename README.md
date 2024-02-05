@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aher45687" target="blank"><img src="https://img.shields.io/twitter/follow/aher45687?logo=twitter&style=for-the-badge" alt="aher45687" /></a> </p>
 
+- 🌱 I’m currently learning **Frontend Development.**
 - 📫 How to reach me **aher45687@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
